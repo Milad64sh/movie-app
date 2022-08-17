@@ -94,7 +94,7 @@ main {
   right: 0;
   bottom: 0;
   background-color: white;
-  padding: 3rem;
+  padding: 1rem;
   max-height: 100%;
   transform: translateY(101%);
   transition: transform 0.3s ease-in;
